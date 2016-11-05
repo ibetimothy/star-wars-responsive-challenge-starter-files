@@ -1,0 +1,46 @@
+* {
+	border: 1px dashed bla
+}
+
+main {
+	margin: 0;
+}
+
+header {
+	display: block;
+	margin-bottom: 40px;
+	background-color: #eebb44;
+	padding-left: 20px;
+}
+
+header h1 {
+	font-size: 30px;
+	margin-top: -5px;
+}
+
+header p {
+	font-size: 14px;
+	margin-top: -10px;
+}
+
+div {
+	display: block;
+}
+
+.characterimg {
+	border: 1px solid #d1d2d3;
+}
+
+.charimg {
+	width: 100%;
+}
+
+.charname {
+	padding-left: 15px;
+}
+
+.description {
+	padding-left: 15px;
+	padding-bottom: 10px;
+	margin-top: -5px;
+}
